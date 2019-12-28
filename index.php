@@ -49,7 +49,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST")
 
     // getting the results using the public static helper which creates a class based on the type of data received (Levenshtein or Hamming)
 
-    echo $type.": " . Helper::instantiate($type, $first, $second) . " operations needed ";
+    echo $type.": " . Helper::instantiate($type, $first, $second) . " operations needed";
     
 }
 ?>
