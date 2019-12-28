@@ -11,6 +11,6 @@ To run the CLI version, in that same directory run:
 
 for further details and information, please contact my at:
 
-	eliasmnada@gmail,com
+	eliasmnada@gmail.com
 	0777518736
 	0795162933
